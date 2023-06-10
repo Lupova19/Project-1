@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\Zadachi-Proekt1\AdvertisingMessage\bin\Debug\AdvertisingMessage.exe.config
+C:\Users\Admin\Desktop\Lupova19\Zadachi-Proekt1\AdvertisingMessage\bin\Debug\AdvertisingMessage.exe
+C:\Users\Admin\Desktop\Lupova19\Zadachi-Proekt1\AdvertisingMessage\bin\Debug\AdvertisingMessage.pdb
+C:\Users\Admin\Desktop\Lupova19\Zadachi-Proekt1\AdvertisingMessage\obj\Debug\AdvertisingMessage.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\Zadachi-Proekt1\AdvertisingMessage\obj\Debug\AdvertisingMessage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\Zadachi-Proekt1\AdvertisingMessage\obj\Debug\AdvertisingMessage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\Zadachi-Proekt1\AdvertisingMessage\obj\Debug\AdvertisingMessage.exe
+C:\Users\Admin\Desktop\Lupova19\Zadachi-Proekt1\AdvertisingMessage\obj\Debug\AdvertisingMessage.pdb

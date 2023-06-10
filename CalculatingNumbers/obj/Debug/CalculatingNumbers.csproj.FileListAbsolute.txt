@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\Zadachi-Proekt1\CalculatingNumbers\bin\Debug\CalculatingNumbers.exe.config
+C:\Users\Admin\Desktop\Lupova19\Zadachi-Proekt1\CalculatingNumbers\bin\Debug\CalculatingNumbers.exe
+C:\Users\Admin\Desktop\Lupova19\Zadachi-Proekt1\CalculatingNumbers\bin\Debug\CalculatingNumbers.pdb
+C:\Users\Admin\Desktop\Lupova19\Zadachi-Proekt1\CalculatingNumbers\obj\Debug\CalculatingNumbers.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\Zadachi-Proekt1\CalculatingNumbers\obj\Debug\CalculatingNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\Zadachi-Proekt1\CalculatingNumbers\obj\Debug\CalculatingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\Zadachi-Proekt1\CalculatingNumbers\obj\Debug\CalculatingNumbers.exe
+C:\Users\Admin\Desktop\Lupova19\Zadachi-Proekt1\CalculatingNumbers\obj\Debug\CalculatingNumbers.pdb
